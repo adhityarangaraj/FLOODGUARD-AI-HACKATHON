@@ -2,6 +2,9 @@
 
 FloodGuard AI is a machine learning-powered web application that predicts flood risk using real-time weather data and geographic inputs.
 
+> **Repository Note:** Both this repository and the consolidated [FLOOD-GUARD-AI](https://github.com/adhityarangaraj/FLOOD-GUARD-AI) repository contain working versions of FloodGuard AI. The consolidated repository additionally preserves the project's complete development history.
+
+
 ---
 
 ## Features
